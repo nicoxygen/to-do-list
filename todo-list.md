@@ -5,7 +5,11 @@
 3. [sticky navbar scroll](https://www.youtube.com/results?search_query=sticky+navbar+scroll)
 4. [dropdown menu multilevel](https://www.youtube.com/results?search_query=dropdown+menu+multi+level+responsive)
 5. [megamenu vanilla](https://github.com/syrizaldev/vanilla-megamenu)
+6. [sandoche simple darkmode.js](https://github.com/sandoche/Darkmode.js)
+7. 
 
 ## Site jekyll
 
 [feeling-responsive-language](https://jekyllthemes.io/theme/feeling-responsive)
+[minimal-mistake](https://jekyllthemes.io/theme/minimal-mistakes)
+[agency-for-menu](https://jekyllthemes.io/theme/agency-jekyll-theme)
