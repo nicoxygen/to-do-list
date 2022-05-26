@@ -12,6 +12,6 @@
 
 ## Site jekyll
 
-- [feeling-responsive-language](https://jekyllthemes.io/theme/feeling-responsive)
+- [feeling-responsive language](https://jekyllthemes.io/theme/feeling-responsive)
 - [minimal-mistake](https://jekyllthemes.io/theme/minimal-mistakes)
-- [agency-for-menu](https://jekyllthemes.io/theme/agency-jekyll-theme)
+- [agency-for-menu sticky navbar scroll](https://jekyllthemes.io/theme/agency-jekyll-theme)
