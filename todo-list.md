@@ -2,14 +2,15 @@
 
 1. [news magazine layout](https://www.youtube.com/results?search_query=news+magazine+layout+bootstrap)
 2. [news magazine css grid layout](https://www.youtube.com/results?search_query=news+magazine+layout+css)
-3. [sticky navbar scroll](https://www.youtube.com/results?search_query=sticky+navbar+scroll)
-4. [julio codes sticky nav bar](https://www.youtube.com/watch?v=vE4UuSzR5T0)
-5. [dropdown menu multilevel](https://www.youtube.com/results?search_query=dropdown+menu+multi+level+responsive)
-6. [megamenu vanilla](https://github.com/syrizaldev/vanilla-megamenu)
-7. [sandoche simple darkmode.js](https://github.com/sandoche/Darkmode.js)
-8. [julio codes dark mode](https://www.youtube.com/watch?v=Ia1yEBjrSsQ)
-9. [Julio codes footer design](https://www.youtube.com/watch?v=l3hryNVBwa4)
-10. [Vanilla back-to-top](https://github.com/vfeskov/vanilla-back-to-top/tree/v7.2.1)
+3. [news bootstrap css](https://www.youtube.com/watch?v=EkeOuwF8g8s)
+4. [sticky navbar scroll](https://www.youtube.com/results?search_query=sticky+navbar+scroll)
+5. [julio codes sticky nav bar](https://www.youtube.com/watch?v=vE4UuSzR5T0)
+6. [dropdown menu multilevel](https://www.youtube.com/results?search_query=dropdown+menu+multi+level+responsive)
+7. [megamenu vanilla](https://github.com/syrizaldev/vanilla-megamenu)
+8. [sandoche simple darkmode.js](https://github.com/sandoche/Darkmode.js)
+9. [julio codes dark mode](https://www.youtube.com/watch?v=Ia1yEBjrSsQ)
+10. [Julio codes footer design](https://www.youtube.com/watch?v=l3hryNVBwa4)
+11. [Vanilla back-to-top](https://github.com/vfeskov/vanilla-back-to-top/tree/v7.2.1)
 
 ## Site jekyll
 
