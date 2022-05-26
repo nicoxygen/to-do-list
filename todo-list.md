@@ -18,3 +18,7 @@
 - [feeling-responsive language](https://jekyllthemes.io/theme/feeling-responsive)
 - [minimal-mistake](https://jekyllthemes.io/theme/minimal-mistakes)
 - [agency-for-menu sticky navbar scroll](https://jekyllthemes.io/theme/agency-jekyll-theme)
+
+## Tuto jekyll
+
+- [featured post](https://talk.jekyllrb.com/t/featured-post-or-popular-post/5157)
