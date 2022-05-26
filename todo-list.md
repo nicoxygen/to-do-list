@@ -9,6 +9,7 @@
 7. [sandoche simple darkmode.js](https://github.com/sandoche/Darkmode.js)
 8. [julio codes dark mode](https://www.youtube.com/watch?v=Ia1yEBjrSsQ)
 9. [Julio codes footer design](https://www.youtube.com/watch?v=l3hryNVBwa4)
+10. [Vanilla back-to-top](https://github.com/vfeskov/vanilla-back-to-top/tree/v7.2.1)
 
 ## Site jekyll
 
