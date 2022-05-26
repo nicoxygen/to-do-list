@@ -2,16 +2,18 @@
 
 1. [news magazine layout](https://www.youtube.com/results?search_query=news+magazine+layout+bootstrap)
 2. [news magazine css grid layout](https://www.youtube.com/results?search_query=news+magazine+layout+css)
-3. [news bootstrap css](https://www.youtube.com/watch?v=EkeOuwF8g8s)
-4. [news css jquery blog](https://www.youtube.com/watch?v=dPSST_3jyJ0)
-5. [sticky navbar scroll](https://www.youtube.com/results?search_query=sticky+navbar+scroll)
-6. [julio codes sticky nav bar](https://www.youtube.com/watch?v=vE4UuSzR5T0)
-7. [dropdown menu multilevel](https://www.youtube.com/results?search_query=dropdown+menu+multi+level+responsive)
-8. [megamenu vanilla](https://github.com/syrizaldev/vanilla-megamenu)
-9. [sandoche simple darkmode.js](https://github.com/sandoche/Darkmode.js)
-10. [julio codes dark mode](https://www.youtube.com/watch?v=Ia1yEBjrSsQ)
-11. [Julio codes footer design](https://www.youtube.com/watch?v=l3hryNVBwa4)
-12. [Vanilla back-to-top](https://github.com/vfeskov/vanilla-back-to-top/tree/v7.2.1)
+3. [gridy blog website](https://github.com/akashyap2013/Complete_HTML_CSS_Blog_Website)
+4. [tc blogs](https://github.com/techiecoder2079/Blog-Website)
+5. [news bootstrap css](https://www.youtube.com/watch?v=EkeOuwF8g8s)
+6. [news css jquery blog](https://www.youtube.com/watch?v=dPSST_3jyJ0)
+7. [sticky navbar scroll](https://www.youtube.com/results?search_query=sticky+navbar+scroll)
+8. [julio codes sticky nav bar](https://www.youtube.com/watch?v=vE4UuSzR5T0)
+9. [dropdown menu multilevel](https://www.youtube.com/results?search_query=dropdown+menu+multi+level+responsive)
+10. [megamenu vanilla](https://github.com/syrizaldev/vanilla-megamenu)
+11. [sandoche simple darkmode.js](https://github.com/sandoche/Darkmode.js)
+12. [julio codes dark mode](https://www.youtube.com/watch?v=Ia1yEBjrSsQ)
+13. [Julio codes footer design](https://www.youtube.com/watch?v=l3hryNVBwa4)
+14. [Vanilla back-to-top](https://github.com/vfeskov/vanilla-back-to-top/tree/v7.2.1)
 
 ## Site jekyll
 
