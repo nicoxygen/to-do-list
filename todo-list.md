@@ -6,14 +6,15 @@
 4. [tc blogs](https://github.com/techiecoder2079/Blog-Website)
 5. [news bootstrap css](https://www.youtube.com/watch?v=EkeOuwF8g8s)
 6. [news css jquery blog](https://www.youtube.com/watch?v=dPSST_3jyJ0)
-7. [sticky navbar scroll](https://www.youtube.com/results?search_query=sticky+navbar+scroll)
-8. [julio codes sticky nav bar](https://www.youtube.com/watch?v=vE4UuSzR5T0)
-9. [dropdown menu multilevel](https://www.youtube.com/results?search_query=dropdown+menu+multi+level+responsive)
-10. [megamenu vanilla](https://github.com/syrizaldev/vanilla-megamenu)
-11. [sandoche simple darkmode.js](https://github.com/sandoche/Darkmode.js)
-12. [julio codes dark mode](https://www.youtube.com/watch?v=Ia1yEBjrSsQ)
-13. [Julio codes footer design](https://www.youtube.com/watch?v=l3hryNVBwa4)
-14. [Vanilla back-to-top](https://github.com/vfeskov/vanilla-back-to-top/tree/v7.2.1)
+7. [responsive blog layout research github](https://github.com/search?l=HTML&q=responsive+layout+blog&type=Repositories)
+8. [sticky navbar scroll](https://www.youtube.com/results?search_query=sticky+navbar+scroll)
+9. [julio codes sticky nav bar](https://www.youtube.com/watch?v=vE4UuSzR5T0)
+10. [dropdown menu multilevel](https://www.youtube.com/results?search_query=dropdown+menu+multi+level+responsive)
+11. [megamenu vanilla](https://github.com/syrizaldev/vanilla-megamenu)
+12. [sandoche simple darkmode.js](https://github.com/sandoche/Darkmode.js)
+13. [julio codes dark mode](https://www.youtube.com/watch?v=Ia1yEBjrSsQ)
+14. [Julio codes footer design](https://www.youtube.com/watch?v=l3hryNVBwa4)
+15. [Vanilla back-to-top](https://github.com/vfeskov/vanilla-back-to-top/tree/v7.2.1)
 
 ## Site jekyll
 
