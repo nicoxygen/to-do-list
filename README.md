@@ -16,6 +16,7 @@
 14. [julio codes dark mode](https://www.youtube.com/watch?v=Ia1yEBjrSsQ)
 15. [Julio codes footer design](https://www.youtube.com/watch?v=l3hryNVBwa4)
 16. [Vanilla back-to-top](https://github.com/vfeskov/vanilla-back-to-top/tree/v7.2.1)
+17. [ faq codingnepal](https://www.codingnepalweb.com/responsive-accordion-menu-html-css/)
 
 ## Site jekyll
 
@@ -26,3 +27,4 @@
 ## Tuto jekyll
 
 - [featured post](https://talk.jekyllrb.com/t/featured-post-or-popular-post/5157)
+- [faq integration](https://jamesonzimmer.com/faq-schema-jekyll-liquid/)
