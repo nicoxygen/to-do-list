@@ -17,6 +17,8 @@
 15. [Julio codes footer design](https://www.youtube.com/watch?v=l3hryNVBwa4)
 16. [Vanilla back-to-top](https://github.com/vfeskov/vanilla-back-to-top/tree/v7.2.1)
 17. [ faq codingnepal](https://www.codingnepalweb.com/responsive-accordion-menu-html-css/)
+18. [trending news](https://codepen.io/slashtricks/pen/VJLQbx)
+19. [horizontal css tricker](https://codehasbug.com/css/create-3-types-horizontal-vertical-news-ticker-html-css/)
 
 ## Site jekyll
 
