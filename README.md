@@ -30,3 +30,4 @@
 
 - [featured post](https://talk.jekyllrb.com/t/featured-post-or-popular-post/5157)
 - [faq integration](https://jamesonzimmer.com/faq-schema-jekyll-liquid/)
+- [intégrer facilement une font google grace à heroku](https://google-webfonts-helper.herokuapp.com/fonts/poppins?subsets=latin)
